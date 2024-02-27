@@ -84,7 +84,7 @@
             bindings = <
               &trans    &trans       &trans    &trans    &trans    &trans       &kp LBKT      &kp LT     &kp EQUAL   &kp GT     &kp RBKT   &trans
               &trans    &kp EXCL     &kp AT    &kp HASH  &kp DLLR  &kp PRCNT    &kp LBRC      &kp LPAR   &kp COLON   &kp RPAR   &kp RBRC   &trans
-              &trans    &kp CARET    &kp AMPS  &kp STAR  &kp GRAVE &kp TILDE    &kp FSLH      &kp STAR   &kp MINUS   &kp PLUS   &kp UNDER  &trans
+              &trans    &kp CARET    &kp AMPS  &kp STAR  &kp GRAVE &kp TILDE    &kp BSLH      &kp STAR   &kp MINUS   &kp PLUS   &kp UNDER  &trans
               &trans    &trans       &trans    &trans          &trans                 &trans             &trans      &kp C_PREV &kp C_PP   &kp C_NEXT
             >;
         };
